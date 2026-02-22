@@ -36,8 +36,6 @@ Currently engineering high-performance AI systems at **Tru Performance Inc**.
 
 ---
 
-# 🏢 Mission: HiveX
-
 ### 🚀 Enterprise LLM Assistant
 
 Integrated across:
