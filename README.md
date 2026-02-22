@@ -6,20 +6,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2000&color=8A2BE2&center=true&vCenter=true&width=1100&lines=🚀+Sakshi+Shimpi;🎮+AI%2FML+Engineer;🤖+Enterprise+GenAI+Architect;⚡+Agentic+AI+%7C+RAG+%7C+LLM+Orchestration;🔥+From+Prototype+to+Production" />
 </p>
 
-<!-- 🔥 WORKING GITHUB BADGES -->
+<!-- 🏅 GITHUB ACHIEVEMENTS -->
+<h2 align="center">🏆 GitHub Achievements</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/github/followers/SakshiShimpi26?label=Followers&style=for-the-badge&color=8A2BE2" />
-  <img src="https://img.shields.io/github/stars/SakshiShimpi26?affiliations=OWNER&style=for-the-badge&color=purple" />
-  <img src="https://komarev.com/ghpvc/?username=SakshiShimpi26&style=for-the-badge&color=8A2BE2" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="110"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="110"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="110"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="110"/>
 </p>
 
 <!-- 🎓 CERT BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-GenAI%20Certified-red?style=for-the-badge&logo=oracle" />
-  <img src="https://img.shields.io/badge/Microsoft-AI--900-blue?style=for-the-badge&logo=microsoft" />
-  <img src="https://img.shields.io/badge/Focus-Agentic%20AI-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Architecture-RAG%20%7C%20Memory-black?style=for-the-badge" />
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Oracle-GenAI%20Certified-red?style=for-the-badge&logo=oracle" />
   <img src="https://img.shields.io/badge/Microsoft-AI--900-blue?style=for-the-badge&logo=microsoft" />
