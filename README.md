@@ -1,53 +1,43 @@
 
 <!-- ===================================================== -->
-<!--        🚀 SAKSHI SHIMPI | GENAI SYSTEMS ARCHITECT     -->
+<!--        SAKSHI SHIMPI | ENTERPRISE GENAI ENGINEER     -->
 <!-- ===================================================== -->
 
-<!-- 🎮 Gamer / Programmer Style Animated Header -->
+<!-- 🚀 Animated Name Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=2000&color=8A2BE2&center=true&vCenter=true&width=1100&lines=👩‍💻+Sakshi+Shimpi;🚀+AI%2FML+Engineer;🧠+Enterprise+GenAI+Architect;⚡+Agentic+AI+%7C+RAG+%7C+LLM+Orchestration;🔥+Building+Production-Grade+LLM+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2000&color=8A2BE2&center=true&vCenter=true&width=1100&lines=🚀+Sakshi+Shimpi;🎮+AI%2FML+Engineer;🤖+Enterprise+GenAI+Architect;⚡+Agentic+AI+%7C+RAG+%7C+LLM+Orchestration;🔥+From+Prototype+to+Production" />
 </p>
 
-<!-- 🏆 Elite Badge Wall -->
+<!-- 🏆 HEADER BADGE ZONE -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Enterprise%20AI%20Engineer-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/SakshiShimpi26?label=Followers&style=for-the-badge&color=8A2BE2" />
+  <img src="https://img.shields.io/github/stars/SakshiShimpi26?affiliations=OWNER&style=for-the-badge&color=purple" />
+  <img src="https://img.shields.io/github/commit-activity/m/SakshiShimpi26?style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=SakshiShimpi26&style=for-the-badge&color=8A2BE2" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-GenAI%20Certified-red?style=for-the-badge&logo=oracle" />
+  <img src="https://img.shields.io/badge/Microsoft-AI--900-blue?style=for-the-badge&logo=microsoft" />
   <img src="https://img.shields.io/badge/Focus-Agentic%20AI-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Architecture-RAG%20%7C%20Memory-black?style=for-the-badge" />
 </p>
 
-<!-- 🌟 GitHub Dynamic Badges -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/SakshiShimpi26?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/SakshiShimpi26?affiliations=OWNER&style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/github/repos/SakshiShimpi26?style=for-the-badge&color=green" />
-  <img src="https://komarev.com/ghpvc/?username=SakshiShimpi26&style=for-the-badge&color=8A2BE2" />
-</p>
+---
 
-<!-- ☁️ Certifications -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-GenAI%20Certified-red?style=for-the-badge&logo=oracle" />
-  <img src="https://img.shields.io/badge/Microsoft-AI--900-blue?style=for-the-badge&logo=microsoft" />
-</p>
+# 👩‍💻 Player Profile
+
+🎮 **Role:** Enterprise AI Engineer  
+🧠 **Class:** GenAI Systems Architect  
+⚡ **Special Ability:** Building production-grade LLM systems  
+
+Currently engineering high-performance AI systems at **Tru Performance Inc**.
 
 ---
 
-# 👩‍💻 Designing Production-Grade LLM Systems for Enterprise Scale
+# 🏢 Mission: HiveX
 
-I engineer intelligent systems that are:
-
-• ⚡ Stateful  
-• 🔗 Tool-integrated  
-• 🧠 Memory-aware  
-• 🚀 Latency-optimized  
-• 🏗️ Deployment-ready  
-
-Currently building scalable GenAI solutions at **Tru Performance Inc**.
-
----
-
-# 🏢 Enterprise AI Work
-
-## 🔥 HiveX — Enterprise LLM Assistant
+### 🚀 Enterprise LLM Assistant
 
 Integrated across:
 
@@ -55,21 +45,21 @@ Slack • Zoom • Outlook • Monday • Google Drive
 
 ✔ Custom Agent Orchestration Layer  
 ✔ Long-Term Memory (MongoDB + Vector DB)  
-✔ Token Optimization & Response Latency Reduction  
-✔ Led AI Engineering Team  
-✔ Production-Ready Deployment  
+✔ Token Optimization & Latency Reduction  
+✔ AI Team Leadership  
+✔ Production Deployment  
 
 ---
 
-# 🧠 Core Engineering Domains
+# 🧠 Skill Tree
 
 ```
-🎯 Agentic AI
-🧩 Graph-Based Orchestration
-📚 Retrieval-Augmented Generation
-🗄️ Memory Architecture Design
-⚙️ LLMOps & Deployment
-🌐 Multi-Modal Systems
+Agentic AI
+Graph-Based LLM Orchestration
+Retrieval-Augmented Generation
+Memory Architecture
+LLMOps & Deployment
+Multi-Modal Systems
 ```
 
 ---
@@ -90,13 +80,39 @@ Slack • Zoom • Outlook • Monday • Google Drive
 
 ---
 
+# 🧬 System Blueprint
+
+```
+User Input
+   ↓
+LLM Engine
+   ↓
+Tool Router
+   ↓
+Memory Layer (Vector + Database)
+   ↓
+Enterprise Integrations
+   ↓
+Intelligent Response
+```
+
+---
+
+# 🏆 Certifications
+
+☁️ Oracle Cloud Infrastructure 2025 – Generative AI  
+🤖 Microsoft Azure AI Fundamentals (AI-900)  
+🚀 NVIDIA – Building RAG Agents  
+
+---
+
 # 🎯 Engineering Philosophy
 
 • Build systems, not demos  
 • Optimize tokens & latency  
 • Design controllable AI pipelines  
-• Architect for scale from Day 1  
-• Deliver measurable business impact  
+• Architect for scale  
+• Deliver measurable impact  
 
 ---
 
@@ -114,5 +130,5 @@ Slack • Zoom • Outlook • Monday • Google Drive
 ---
 
 <p align="center">
-  <i>🚀 Engineering AI systems that operate beyond experimentation.</i>
+  <i>🚀 Engineering AI systems that level up beyond experimentation.</i>
 </p>
