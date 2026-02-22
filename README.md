@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="110"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="110"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="110"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="110"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="110"/>
 </p>
 
