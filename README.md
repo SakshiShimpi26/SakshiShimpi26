@@ -18,10 +18,18 @@
 
 <!-- 🎓 CERT BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle-GenAI%20Certified-red?style=for-the-badge&logo=oracle" />
-  <img src="https://img.shields.io/badge/Microsoft-AI--900-blue?style=for-the-badge&logo=microsoft" />
+
+  <a href="https://drive.google.com/file/d/1WkSXGydB9ihDLe-7TcO6WaRt8FhuM6M1/view" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle-GenAI%20Certified-red?style=for-the-badge&logo=oracle" />
+  </a>
+
+  <a href="https://drive.google.com/file/d/1Zh4t8YEwtNBhy4YIUjivumvILw6J584P/view" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft-AI--900-blue?style=for-the-badge&logo=microsoft" />
+  </a>
+
   <img src="https://img.shields.io/badge/Focus-Agentic%20AI-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Architecture-RAG%20%7C%20Memory-black?style=for-the-badge" />
+
 </p>
 
 ---
