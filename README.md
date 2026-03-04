@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakshishimpi&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=SakshiShimpi26&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
 <!-- 🏅 GITHUB ACHIEVEMENTS -->
