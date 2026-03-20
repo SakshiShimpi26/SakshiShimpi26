@@ -123,7 +123,7 @@ Intelligent Response
 • Optimize tokens & latency  
 • Design controllable AI pipelines  
 • Architect for scale  
-• Deliver measurable impact  
+• Deliver measurable impact
 
 ---
 
