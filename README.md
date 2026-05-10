@@ -1,7 +1,6 @@
 <!-- ===================================================== -->
 <!--        SAKSHI SHIMPI | GENAI SYSTEMS ARCHITECT       -->
 <!-- ===================================================== -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2000&color=8A2BE2&center=true&vCenter=true&width=1100&lines=🚀+Sakshi+Shimpi;🎮+AI%2FML+Engineer;🤖+Enterprise+GenAI+Architect;⚡+Agentic+AI+%7C+RAG+%7C+LLM+Orchestration;🔥+From+Prototype+to+Production" />
 </p>
