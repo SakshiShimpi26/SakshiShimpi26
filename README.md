@@ -44,7 +44,6 @@
 ⚡ **Special Ability:** Building production-grade LLM systems  
 
 Currently engineering high-performance AI systems at **Tru Performance Inc**.
-
 ---
 
 ### 🚀 Enterprise LLM Assistant
